@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipiby
+- 👋 Привет, [о Таиланде](https://o-thailand.ru/)
 
 <!---
 dipiby/dipiby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
